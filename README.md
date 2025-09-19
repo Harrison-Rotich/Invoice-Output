@@ -2,19 +2,19 @@
 
 This is a Java project that generates invoice outputs based on user input.
 
-## 📁 Folder Structure
+## Folder Structure
 
 - `src/` - Contains the Java source code
 - `out/` - Compiled output
 - `.idea/` - IntelliJ settings (can be ignored)
 
-## 🚀 How to Run
+## How to Run
 
 1. Open in IntelliJ or any Java IDE
 2. Run the `Main.java` file
 3. Follow the prompts to input data
 
-## 🧪 Sample Output
+## Sample Output
 
 *************************Hari Tech*******************************
 #99 ACS Building Gilmore Ave. New Mla.. Quezon City * Tel. No:123-4567
